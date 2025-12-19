@@ -1,7 +1,3 @@
-<div>
-  <img align="right" src="https://komarev.com/ghpvc/?username=CodeByStella&label=👁️&color=0e75b6&style=flat" alt="CodeByStella" />
-</div>
-
 <h1 align="center">Hello <img src="./emojis/hi.gif" width="28" alt="hi" />, welcome to my corner of GitHub.</h1>
 
 <p align="center">
@@ -41,12 +37,6 @@
       <img src="https://skillicons.dev/icons?i=rails" width="40" height="40" alt="Rails" /><br>Rails
     </td>
     <td align="center" width="103">
-      <img src="https://skillicons.dev/icons?i=sinatra" width="40" height="40" alt="Sinatra" /><br>Sinatra
-    </td>
-    <td align="center" width="103">
-      <img src="https://skillicons.dev/icons?i=rspec" width="40" height="40" alt="RSpec" /><br>RSpec
-    </td>
-    <td align="center" width="103">
       <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" /><br>Docker
     </td>
     <td align="center" width="103">
@@ -58,14 +48,14 @@
     <td align="center" width="103">
       <img src="https://skillicons.dev/icons?i=bash" width="40" height="40" alt="Bash" /><br>Bash
     </td>
-  </tr>
-  <tr>
     <td align="center" width="103">
       <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS" /><br>AWS
     </td>
     <td align="center" width="103">
       <img src="https://skillicons.dev/icons?i=nginx" width="40" height="40" alt="Nginx" /><br>Nginx
     </td>
+  </tr>
+  <tr>
     <td align="center" width="103">
       <img src="https://skillicons.dev/icons?i=redis" width="40" height="40" alt="Redis" /><br>Redis
     </td>
@@ -84,14 +74,14 @@
     <td align="center" width="103">
       <img src="https://skillicons.dev/icons?i=githubactions" width="40" height="40" alt="GitHub Actions" /><br>CI/CD
     </td>
-  </tr>
-  <tr>
     <td align="center" width="103">
       <img src="https://skillicons.dev/icons?i=terraform" width="40" height="40" alt="Terraform" /><br>Terraform
     </td>
     <td align="center" width="103">
       <img src="https://skillicons.dev/icons?i=ansible" width="40" height="40" alt="Ansible" /><br>Ansible
     </td>
+  </tr>
+  <tr>
     <td align="center" width="103">
       <img src="https://skillicons.dev/icons?i=prometheus" width="40" height="40" alt="Prometheus" /><br>Prometheus
     </td>
@@ -103,9 +93,6 @@
     </td>
     <td align="center" width="103">
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="48" height="48" /><br>REST API
-    </td>
-    <td align="center" width="103">
-      <img src="https://skillicons.dev/icons?i=rubymine" width="40" height="40" alt="RubyMine" /><br>RubyMine
     </td>
     <td align="center" width="103">
       <img src="https://skillicons.dev/icons?i=vim" width="40" height="40" alt="Vim" /><br>Vim
