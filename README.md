@@ -12,16 +12,7 @@
     <img src="./emojis/shake.gif" width="22" valign="middle" alt="shake" /><b>I'm looking to collaborate on</b> Ruby on Rails projects, system architecture design, and infrastructure automation.
   </li>
   <li>
-    <img src="./emojis/sos.gif" width="20" valign="middle" alt="sos" /><b>I'm looking for help with</b> <a href="https://t.me/DevCollab">Expanding my developer community on Telegram</a>.
-  </li>
-  <li>
-    <img src="./emojis/folder.gif" width="30" valign="middle" alt="folder" /> <b>All of my projects are available at</b> <a href="https://t.me/StellaShowcase">@StellaShowcase</a>.
-  </li>
-  <li>
     <img src="./emojis/chat.gif" width="30" valign="middle" alt="chat" /> <b>Ask me about</b> Ruby, Ruby on Rails, system architecture, DevOps, Docker, Kubernetes, Linux, automation, and infrastructure design.
-  </li>
-  <li>
-    <img src="./emojis/mail.gif" width="30" valign="middle" alt="mail" /> <b>Reach me at</b> <a href="mailto:nextblock.dev@gmail.com">nextblock.dev@gmail.com</a> or <a href="https://t.me/StellaRay777">@StellaRay777</a>
   </li>
   <li>
     <img src="./emojis/laugh.gif" width="22" valign="middle" alt="laugh" /><b>Fun fact:</b> I automate things just to avoid doing them manually once.
